@@ -10,6 +10,6 @@ All lyrics in this repository are licensed under the **Creative Commons Attribut
 
 --  
 ## 🔎 Custom Search  
-All lyrics are located in the **id** folder. If you don’t know the **id** of the lyrics you’re looking for, we recommend visiting 🔗 [lyrics.lyrafony.com](https://lyrics.lyrafony.com/). From there, you can perform an efficient search.  
+All lyrics are located in the **id** folder.
 
 --
